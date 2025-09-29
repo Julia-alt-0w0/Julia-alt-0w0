@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, eu sou a Anna Júlia ✨</h1>
+<h1 align="center">🍄 Olá, eu sou a Anna Júlia 🐸</h1>
 
 <p align="center">
   Estudante de <b>Sistemas</b> | Foco em <b>Banco de Dados</b> & <b>Front-end</b><br/>
