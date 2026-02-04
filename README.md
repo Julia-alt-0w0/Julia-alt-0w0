@@ -1,29 +1,62 @@
-<h1 align="center">🍄 Olá, eu sou a Anna Júlia 🐸</h1>
+<h1 align="center">
+  🍄 Anna Júlia 🐸
+</h1>
 
 <p align="center">
-  Estudante de <b>Sistemas</b> | Foco em <b>Banco de Dados</b> & <b>Front-end</b><br/>
-  💻 Desenvolvimento Web | 🎨 Design Creator
+  <b>Estudante de Sistemas</b><br/>
+  Front-end • Banco de Dados • Web
+</p>
+
+<p align="center">
+  <a href="mailto:annajulia7879@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D9E0EE?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://github.com/Julia-alt-0w0">
+    <img src="https://img.shields.io/badge/GitHub-D9E0EE?style=for-the-badge&logo=github&logoColor=000" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julia-alt-0w0&show_icons=true&theme=catppuccin_mocha" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julia-alt-0w0&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" height="180em" />
-</div>
+## 💻 Tech Stack
 
----
-
-<p align= "center"><b>Tecnologias que uso💻</b>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&theme=dark" />
 </p>
 
 ---
 
-<p align= "center"><b>Como me contactar?</b>
+## 📊 GitHub Stats
+
 <div align="center">
-  ✉️ <a href="mailto:annajulia7879@gmail.com">annajulia7879@gmail.com</a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Julia-alt-0w0&show_icons=true&theme=catppuccin_mocha&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-alt-0w0&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
 </div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Julia-alt-0w0&theme=catppuccin-mocha&hide_border=true"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Julia-alt-0w0&theme=catppuccin_mocha&no-frame=true&row=1&column=6"/>
+</div>
+
+---
+
+## 📚 Cursos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-CBA6F7?style=for-the-badge&logo=html5&logoColor=000"/>
+  <img src="https://img.shields.io/badge/JavaScript-F9E2AF?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Python-89B4FA?style=for-the-badge&logo=python&logoColor=000"/>
+  <img src="https://img.shields.io/badge/MySQL-74C7EC?style=for-the-badge&logo=mysql&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-A6E3A1?style=for-the-badge&logo=github&logoColor=000"/>
 </p>
