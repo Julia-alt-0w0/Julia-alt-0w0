@@ -1,37 +1,70 @@
 <h1 align="center">🍄 Anna Júlia 🐸</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudante-D9E0EE?style=for-the-badge&logo=bookstack&logoColor=1E1E2E"/>
-  <img src="https://img.shields.io/badge/Sistemas-D9E0EE?style=for-the-badge&logo=codeforces&logoColor=1E1E2E"/>
-  <img src="https://img.shields.io/badge/Front--end-D9E0EE?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados-D9E0EE?style=for-the-badge&logo=mysql&logoColor=1E1E2E"/>
+  <b>Estudante de Sistemas para Internet — IFAC</b><br/>
+  Front-end • Banco de Dados • Desenvolvimento Web
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-F38BA8?style=for-the-badge&logo=html5&logoColor=1E1E2E"/>
-  <img src="https://img.shields.io/badge/CSS3-89B4FA?style=for-the-badge&logo=css3&logoColor=1E1E2E"/>
+  <img src="https://img.shields.io/badge/IFAC-D9E0EE?style=for-the-badge&logo=google-scholar&logoColor=1E1E2E"/>
+  <img src="https://img.shields.io/badge/Sistemas%20para%20Internet-D9E0EE?style=for-the-badge&logo=codecademy&logoColor=1E1E2E"/>
+  <img src="https://img.shields.io/badge/Web%20Desing-D9E0EE?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
+</p>
+
+---
+
+## ✨ Sobre mim
+
+<p align="center">
+  Gosto de criar projetos web bonitos, organizados e funcionais.<br/>
+  Atualmente estou focando em <b>Front-end</b> e <b>Banco de Dados</b>,<br/>
+  e construindo projetos para evoluir na área de TI.
+</p>
+
+---
+
+## 💻 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&theme=dark" />
+</p>
+
+---
+
+## 🌟 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/Julia-alt-0w0">
+    <img src="https://img.shields.io/badge/🌌%20Projeto%20NASA-89B4FA?style=for-the-badge&logo=nasa&logoColor=1E1E2E"/>
+  </a>
+  <a href="https://github.com/Julia-alt-0w0">
+    <img src="https://img.shields.io/badge/🐸%20Site%20de%20Anfíbios-A6E3A1?style=for-the-badge&logo=github&logoColor=1E1E2E"/>
+  </a>
+  <a href="https://github.com/Julia-alt-0w0">
+    <img src="https://img.shields.io/badge/🖥️%20Projetos%20Front--end-F9E2AF?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>(Em breve vou deixar todos esses projetos com README e versão publicada)</i>
+</p>
+
+---
+
+## 📚 Cursos e formações
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IFAC%20•%20Curso%20de%20Robótica-CBA6F7?style=for-the-badge&logo=googleclassroom&logoColor=1E1E2E"/>
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-F38BA8?style=for-the-badge&logo=html5&logoColor=1E1E2E"/>
   <img src="https://img.shields.io/badge/JavaScript-F9E2AF?style=for-the-badge&logo=javascript&logoColor=1E1E2E"/>
   <img src="https://img.shields.io/badge/Python-74C7EC?style=for-the-badge&logo=python&logoColor=1E1E2E"/>
   <img src="https://img.shields.io/badge/MySQL-A6E3A1?style=for-the-badge&logo=mysql&logoColor=1E1E2E"/>
-  <img src="https://img.shields.io/badge/Git-CBA6F7?style=for-the-badge&logo=git&logoColor=1E1E2E"/>
-  <img src="https://img.shields.io/badge/GitHub-CDD6F4?style=for-the-badge&logo=github&logoColor=1E1E2E"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-CDD6F4?style=for-the-badge&logo=github&logoColor=1E1E2E"/>
 </p>
 
 ---
 
-<h2 align="center">📚 Cursos</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-000?style=for-the-badge&logo=github&logoColor=fff"/>
-</p>
-
----
-
-<h2 align="center">📬 Contato</h2>
+## 📬 Contato
 
 <p align="center">
   <a href="mailto:annajulia7879@gmail.com">
