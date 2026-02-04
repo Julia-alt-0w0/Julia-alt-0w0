@@ -18,7 +18,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Linguagens mais usadas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&theme=dark" />
@@ -35,19 +35,10 @@
 
 ---
 
-## 🔥 Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Julia-alt-0w0&theme=catppuccin-mocha&hide_border=true"/>
-</div>
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julia-alt-0w0&theme=catppuccin_mocha&no-frame=true&row=1&column=6"/>
-</div>
 
 ---
 
