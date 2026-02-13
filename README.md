@@ -42,10 +42,10 @@
     <img src="https://img.shields.io/badge/🐸%20Site%20de%20Anfíbios-A6E3A1?style=for-the-badge&logo=github&logoColor=1E1E2E"/>
   </a>
 
-  <a href="https://julia-alt-0w0.github.io/PROJETOS-FRONTEND/" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️%20E-comerces%20Froogy Geek-F9E2AF?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
-  </a>
-</p>
+  <a href="COLOQUE_AQUI_O_LINK_DA_ASFIT" target="_blank">
+  <img src="https://img.shields.io/badge/🏋️%20Página%20Asfit-F9E2AF?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
+</a>
+
 
 
 <p align="center">
