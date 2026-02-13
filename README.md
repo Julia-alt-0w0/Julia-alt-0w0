@@ -43,7 +43,7 @@
   </a>
 
   <a href="https://julia-alt-0w0.github.io/PROJETOS-FRONTEND/" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️%20Projetos%20Front--end-F9E2AF?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
+    <img src="https://img.shields.io/badge/🖥️%20E-comerces%20Froogy Geek-F9E2AF?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
   </a>
 </p>
 
