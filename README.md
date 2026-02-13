@@ -34,7 +34,7 @@
 ## 🌟 Projetos em destaque
 
 <p align="center">
-  <a href=" https://julia-alt-0w0.github.io/Fotos-Nasa-Data/" target="_blank">
+  <a href="https://julia-alt-0w0.github.io/Fotos-Nasa-Data/" target="_blank">
     <img src="https://img.shields.io/badge/🌌%20Projeto%20NASA-89B4FA?style=for-the-badge&logo=nasa&logoColor=1E1E2E"/>
   </a>
 
