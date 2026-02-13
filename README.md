@@ -34,16 +34,19 @@
 ## 🌟 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/Julia-alt-0w0">
+  <a href="https://julia-alt-0w0.github.io/PROJETO-NASA/" target="_blank">
     <img src="https://img.shields.io/badge/🌌%20Projeto%20NASA-89B4FA?style=for-the-badge&logo=nasa&logoColor=1E1E2E"/>
   </a>
-  <a href="https://github.com/Julia-alt-0w0">
+
+  <a href="https://julia-alt-0w0.github.io/SITE-ANFIBIOS/" target="_blank">
     <img src="https://img.shields.io/badge/🐸%20Site%20de%20Anfíbios-A6E3A1?style=for-the-badge&logo=github&logoColor=1E1E2E"/>
   </a>
-  <a href="https://github.com/Julia-alt-0w0">
+
+  <a href="https://julia-alt-0w0.github.io/PROJETOS-FRONTEND/" target="_blank">
     <img src="https://img.shields.io/badge/🖥️%20Projetos%20Front--end-F9E2AF?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
   </a>
 </p>
+
 
 <p align="center">
   <i>(Em breve vou deixar todos esses projetos com README e versão publicada)</i>
