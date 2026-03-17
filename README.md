@@ -1,7 +1,7 @@
 <h1 align="center">🍄 Anna Júlia 🐸</h1>
 
 <p align="center">
-  <b>Estudante de Sistemas para Internet — IFAC</b><br/>
+  <b>Análise e Desenvolvimento de Sistemas</b><br/>
   Front-end • Banco de Dados • Desenvolvimento Web
 </p>
 
