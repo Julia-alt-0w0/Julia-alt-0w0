@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IFAC-D9E0EE?style=for-the-badge&logo=google-scholar&logoColor=1E1E2E"/>
-  <img src="https://img.shields.io/badge/Sistemas%20para%20Internet-D9E0EE?style=for-the-badge&logo=codecademy&logoColor=1E1E2E"/>
+  <img src="https://img.shields.io/badge/Dev%20FullStack%20-D9E0EE?style=for-the-badge&logo=codecademy&logoColor=1E1E2E"/>
   <img src="https://img.shields.io/badge/Web%20Desing-D9E0EE?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
 </p>
 
