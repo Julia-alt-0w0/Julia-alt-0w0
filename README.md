@@ -41,9 +41,7 @@
     <img src="https://img.shields.io/badge/🐸%20Site%20de%20Anfíbios-A6E3A1?style=for-the-badge&logo=github&logoColor=1E1E2E"/>
   </a>
 
-  <a href="https://julia-alt-0w0.github.io/Site-asfit/" target="_blank">
-  <img src="https://img.shields.io/badge/🏋️%20Página%20Asfit-F9E2AF?style=for-the-badge&logo=vercel&logoColor=1E1E2E"/>
-</a>
+ 
 
 
 
